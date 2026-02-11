@@ -1,0 +1,13 @@
+h1{
+color: red;
+border: black;
+text-align:center;
+}
+
+.photo{
+border-radius:20px;
+}
+.funny{
+height:300px;
+width:200px;
+}
